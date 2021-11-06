@@ -19,7 +19,7 @@ The app was deployed on the web with the help of Heroku. There will be feature o
 # Check out the App
 https://restaurantrecommenders.herokuapp.com/
 
-![Screenshot (150)](https://user-images.githubusercontent.com/76935226/140601200-1fa266da-b6ec-4875-a90a-88374a7b07f4.png)
+![Screenshot (150)](https://user-images.githubusercontent.com/76935226/140601233-4f89b14a-10ae-43f0-80e4-628d27eaba52.png)
 ![Screenshot (151)](https://user-images.githubusercontent.com/76935226/140601206-7a9826ca-0569-48dd-83a6-d324827276e5.png)
 ![Screenshot (152)](https://user-images.githubusercontent.com/76935226/140601211-ba5e0aee-da4c-4775-97f5-1088163b0d8f.png)
 
