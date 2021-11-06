@@ -13,9 +13,8 @@ Streamlit was used to build the app with the help of Python.
 The app was deployed on the web with the help of Heroku.
 
 ![7](https://user-images.githubusercontent.com/76935226/140601078-836cfbc2-f77f-4839-8c88-cfb8ba9546bd.jpg)
-
-![image](https://user-images.githubusercontent.com/76935226/140600973-8be7034a-18d3-4a27-aa3e-3fcfdde98eea.png)
 ![140600193-88639597-52de-4dce-ba6a-06b80cbe94f2](https://user-images.githubusercontent.com/76935226/140600966-59ca4379-bcc5-427f-a6f3-6ca112496850.jpg)
+![image](https://user-images.githubusercontent.com/76935226/140600973-8be7034a-18d3-4a27-aa3e-3fcfdde98eea.png)
 
 
 
