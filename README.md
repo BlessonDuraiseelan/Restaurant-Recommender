@@ -16,5 +16,8 @@ The app was deployed on the web with the help of Heroku.
 ![140600193-88639597-52de-4dce-ba6a-06b80cbe94f2](https://user-images.githubusercontent.com/76935226/140600966-59ca4379-bcc5-427f-a6f3-6ca112496850.jpg)
 ![image](https://user-images.githubusercontent.com/76935226/140600973-8be7034a-18d3-4a27-aa3e-3fcfdde98eea.png)
 
+# Check out the App
+https://restaurantrecommenders.herokuapp.com/
+
 
 
