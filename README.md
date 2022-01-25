@@ -17,7 +17,7 @@ The app was deployed on the web with the help of Heroku. There will be feature o
 
 ![7](https://user-images.githubusercontent.com/76935226/150985400-ef2536cf-f014-4298-b6d4-20881bda5a5b.png)
 
-![140600193-88639597-52de-4dce-ba6a-06b80cbe94f2](https://user-images.githubusercontent.com/76935226/140600966-59ca4379-bcc5-427f-a6f3-6ca112496850.jpg)
+https://user-images.githubusercontent.com/76935226/150634597-97758c9f-cc00-47fa-8a2b-9692a81c6fc0.png
 ![image](https://user-images.githubusercontent.com/76935226/140600973-8be7034a-18d3-4a27-aa3e-3fcfdde98eea.png)
 
 # Check out the App
