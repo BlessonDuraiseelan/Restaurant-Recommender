@@ -16,7 +16,6 @@ Streamlit was used to build the app with the help of Python. The app contains of
 The app was deployed on the web with the help of Heroku. There will be feature of top restaurant and the availbale restaurants.
 
 ![7](https://user-images.githubusercontent.com/76935226/150985400-ef2536cf-f014-4298-b6d4-20881bda5a5b.png)
-
 ![image](https://user-images.githubusercontent.com/76935226/150985601-7753aef2-4204-4171-a3d7-f61fbb02419a.png)
 
 ![image](https://user-images.githubusercontent.com/76935226/140600973-8be7034a-18d3-4a27-aa3e-3fcfdde98eea.png)
