@@ -15,7 +15,8 @@ The app will be recommended on the Ratings and also the provision of website of 
 Streamlit was used to build the app with the help of Python. The app contains of multiple sections where the user can choose the city of their choice. Once the city has been chosen the available restaurnats will be shown to the user. And after the choice has been applied for fetching the popular restaurants the app will show the top 10 restaurnats which has been decided on the basis of weighted rating. Along with the provision of the app to show top restaurnats the zomato link of the restaurnat is also availablw which can be used to access the facilites of the hotel.
 The app was deployed on the web with the help of Heroku. There will be feature of top restaurant and the availbale restaurants.
 
-![7](https://user-images.githubusercontent.com/76935226/140601078-836cfbc2-f77f-4839-8c88-cfb8ba9546bd.jpg)
+![7](https://user-images.githubusercontent.com/76935226/150985400-ef2536cf-f014-4298-b6d4-20881bda5a5b.png)
+
 ![140600193-88639597-52de-4dce-ba6a-06b80cbe94f2](https://user-images.githubusercontent.com/76935226/140600966-59ca4379-bcc5-427f-a6f3-6ca112496850.jpg)
 ![image](https://user-images.githubusercontent.com/76935226/140600973-8be7034a-18d3-4a27-aa3e-3fcfdde98eea.png)
 
